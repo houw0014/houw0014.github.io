@@ -1,0 +1,24 @@
+tr:nth-child(even) {
+    background-color: #ddd;
+
+}
+
+tr:nth-child(odd) {
+    background-color: aliceblue;
+
+}
+
+td {
+    height: 1cm;
+
+}
+
+table tr td:nth-child(2) {
+    width: 300px;
+}
+
+h2 {
+    text-align: center;
+    background: color #007bf0;
+    color: #fff;
+}
